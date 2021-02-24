@@ -1,2 +1,1 @@
-# developerFolio
-developerFolio
+CV Developer
