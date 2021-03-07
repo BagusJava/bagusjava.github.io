@@ -9,10 +9,10 @@ const illustration = {
 };
 
 const greeting = {
-  username: "bagus java",
+  username: "Bagus Java",
   title: "Hi all, I'm Saad",
   subTitle: emoji(
-    "hahaha  A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",
@@ -22,11 +22,13 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/agusprayogi02",
-  linkedin: "https://www.linkedin.com/in/bagusjava/",
-  gmail: "bagusjava70@gmail.com",
+  gmail: "bagusjava7@gmail.com",
   gitlab: "https://gitlab.com/",
+  github: "https://github.com/BagusJava",
+  linkedin: "https://www.linkedin.com/in/bagusjava/",
   facebook: "https://www.facebook.com/bagusjavaid",
+  twitter: "https://twitter.com/bagusjavaid",
+  istagram: "https://www.instagram.com/bagusjava/",
   medium: "https://medium.com/@bagusjava",
   stackoverflow: "https://stackoverflow.com/users/15253936/bagus-java",
   // Instagram and Twitter are also supported in the links!
@@ -359,14 +361,14 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "bagusjava77@gmail.com"
+  number: "+62-85785121122",
+  email_address: "bagusjava7@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
+  userName: "bagusjava", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
