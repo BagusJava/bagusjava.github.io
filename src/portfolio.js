@@ -23,7 +23,7 @@ const greeting = {
 
 const socialMediaLinks = {
   gmail: "bagusjava7@gmail.com",
-  gitlab: "https://gitlab.com/",
+  gitlab: "https://gitlab.com/bagusjava",
   github: "https://github.com/BagusJava",
   linkedin: "https://www.linkedin.com/in/bagusjava/",
   facebook: "https://www.facebook.com/bagusjavaid",
