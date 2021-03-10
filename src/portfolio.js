@@ -351,7 +351,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/bagus-java/"
+    "https://anchor.fm/bagus-java"
   ],
   display: true // Set false to hide this section, defaults to true
 };

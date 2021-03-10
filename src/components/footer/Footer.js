@@ -14,7 +14,7 @@ export default function Footer() {
         </p>
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           Theme by{" "}
-          <a href="https://www.bagusjava.com/">          </a>
+          <a href="https://www.bagusjava.com/"/a>
         </p>
       </div>
     </Fade>
